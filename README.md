@@ -115,6 +115,10 @@ The company should use content and remarketing to shift more people from Q2 → 
 - A small group of power-users accounts for most of the engagement.
 - Bounce rate is a critical negative predictor of conversion.
 
+### Author
+
+Esther Mnjala (Ess-ence) - *Associate Data Analyst*
+[LinkedIn](www.linkedin.com/in/esthermnjala25)
 
 
 
