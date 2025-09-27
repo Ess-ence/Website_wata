@@ -3,6 +3,8 @@
 📍 ## Project Overview 
 This project analyzes website traffic data (website_wata.csv) using Excel for EDA and predictive analysis. The goal is to understand user engagement, bounce behavior, and conversion drivers, and to build a simple regression model for predicting conversion rates.
 
+![Dashboard](website_Dahsboard)
+
 ## Objectives
 - Perform descriptive analysis (summary statistics, pivot tables, charts).
 - Explore bounce rate, session duration, and page views.
