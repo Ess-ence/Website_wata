@@ -3,7 +3,7 @@
 📍 ## Project Overview 
 This project analyzes website traffic data (website_wata.csv) using Excel for EDA and predictive analysis. The goal is to understand user engagement, bounce behavior, and conversion drivers, and to build a simple regression model for predicting conversion rates.
 
-![Dashboard](website_Dahsboard)
+![Dashboard](images/Website_Dahsboard.png)
 
 ## Objectives
 - Perform descriptive analysis (summary statistics, pivot tables, charts).
@@ -43,6 +43,7 @@ This project analyzes website traffic data (website_wata.csv) using Excel for ED
 - Conversion rates increase as previous visits increase. Users are more likely to convert if they keep coming back to the website
 - New users browse more pages than returning users, precisely, most users browse 6–10 pages before leaving.
 - Only 1% of users are deep explorers of the website, viewing 11+ pages per session
+    ![Pie Chart](images/pie chart.png)
 
 ### Session Duration vs Conversion
 - Sessions >5 minutes accounted for 19% of traffic but drove disproportionately higher conversions.  
