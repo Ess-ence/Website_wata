@@ -2,8 +2,10 @@
 
 📍 ## Project Overview 
 This project analyzes website traffic data (website_wata.csv) using Excel for EDA and predictive analysis. The goal is to understand user engagement, bounce behavior, and conversion drivers, and to build a simple regression model for predicting conversion rates.
-Here is a preview if my Dashboard
-![Dashboard](Website_Dahsboard.png)
+
+
+- Here is a preview if my Dashboard
+<img width="1150" height="521" alt="Dashboard101" src="https://github.com/user-attachments/assets/779ff2e1-bb57-46b6-88a1-b7be6e61d288" />
 
 ## Objectives
 - Perform descriptive analysis (summary statistics, pivot tables, charts).
@@ -44,10 +46,16 @@ Here is a preview if my Dashboard
 - New users browse more pages than returning users, precisely, most users browse 6–10 pages before leaving.
 - Only 1% of users are deep explorers of the website, viewing 11+ pages per session
     ![Pie Chart](images/pie chart.png)
+  
+<img width="355" height="305" alt="pie chart " src="https://github.com/user-attachments/assets/6399b868-cbd2-4084-ba01-7c8f86d2de22" />
 
 ### Session Duration vs Conversion
 - Sessions >5 minutes accounted for 19% of traffic but drove disproportionately higher conversions.  
 - Short sessions (<2 minutes) made up ~50% of all traffic, indicating drop-off issues.
+
+<img width="519" height="306" alt="histogram " src="https://github.com/user-attachments/assets/291a4ff4-a6d9-4c78-a5ad-1a71d0a18a8c" />
+
+
 
 ## Distribution Analysis  
 1. How many sessions lasted less than 2 minutes?**  
